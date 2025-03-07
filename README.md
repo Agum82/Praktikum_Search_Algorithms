@@ -1,1 +1,1 @@
-# Praktikum_Search_Algoritthms
+# Praktikum_Search_Algorithm
