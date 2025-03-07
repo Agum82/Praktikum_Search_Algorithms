@@ -4,6 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
+      "name": "dfs.py",
       "authorship_tag": "ABX9TyPKyz6VfofF5f27j+aFyVrN",
       "include_colab_link": true
     },
@@ -28,7 +29,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 1,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
